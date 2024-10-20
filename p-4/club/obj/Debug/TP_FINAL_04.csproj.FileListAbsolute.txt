@@ -1,0 +1,5 @@
+C:\Users\Kllister\Desktop\proyecto-4\p-4\club\obj\Debug\TP_FINAL_04.csprojResolveAssemblyReference.cache
+C:\Users\Kllister\Desktop\proyecto-4\p-4\club\bin\Debug\TP_FINAL_04.exe
+C:\Users\Kllister\Desktop\proyecto-4\p-4\club\bin\Debug\TP_FINAL_04.pdb
+C:\Users\Kllister\Desktop\proyecto-4\p-4\club\obj\Debug\TP_FINAL_04.exe
+C:\Users\Kllister\Desktop\proyecto-4\p-4\club\obj\Debug\TP_FINAL_04.pdb

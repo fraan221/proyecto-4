@@ -1,0 +1,5 @@
+C:\Users\Kllister\Desktop\proyecto-4\p-4\club\bin\Debug\club.exe
+C:\Users\Kllister\Desktop\proyecto-4\p-4\club\bin\Debug\club.pdb
+C:\Users\Kllister\Desktop\proyecto-4\p-4\club\obj\Debug\club.csprojResolveAssemblyReference.cache
+C:\Users\Kllister\Desktop\proyecto-4\p-4\club\obj\Debug\club.exe
+C:\Users\Kllister\Desktop\proyecto-4\p-4\club\obj\Debug\club.pdb
